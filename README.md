@@ -1,6 +1,6 @@
 # US Gdp Chart
 
->> A chart I built using D3.js that shows the Unites States GDP from 1947-2015.
+> A chart I built using D3.js that shows the Unites States GDP from 1947-2015.
 
 ### To Use
 
