@@ -1,0 +1,22 @@
+{
+  "name": "gdp-chart",
+  "version": "1.0.0",
+  "description": "A chart made with d3 that shows the US gdp from 1947-2015.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McQTip22/us-gdp-chart.git"
+  },
+  "author": "Brian McEwen <brian.t.mcewen@gmail.com> (http://www.brianmcewen.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McQTip22/us-gdp-chart/issues"
+  },
+  "homepage": "https://github.com/McQTip22/us-gdp-chart#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
