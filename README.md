@@ -6,7 +6,7 @@
 
 `npm install express`
 
-`node index.js`
+`npm start`
 
 or visit https://us-gdp-chart.herokuapp.com/
 
