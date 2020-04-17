@@ -4,7 +4,11 @@
 
 ### To Use
 
-Simply download the repo and open the .html file.
+`npm install express`
+
+`node index.js`
+
+or visit https://us-gdp-chart.herokuapp.com/
 
 ### About the Author
 
